@@ -2,6 +2,7 @@
 
 This project demonstrates a comprehensive hands-on implementation of agentic AI systems using LangGraph and LangChain. It covers the complete lifecycle of building structured, scalable, and production-ready LLM workflows.
 
+
 🚀 Key Highlights
 
 🔹 Built multiple LLM-powered workflows using LangGraph
@@ -11,6 +12,7 @@ This project demonstrates a comprehensive hands-on implementation of agentic AI 
 🔹 Designed modular and scalable AI pipelines
 
 🔹 Explored real-world agent architectures and orchestration patterns
+
 
 🧠 Topics Covered
 
@@ -40,6 +42,7 @@ This repository includes step-by-step notebooks covering:
 
 ✅ Human-in-the-loop systems
 
+
 🛠️ Tech Stack
 
 LangGraph
@@ -52,6 +55,7 @@ Pydantic
 
 LLM APIs (OpenAI / compatible models)
 
+
 💡 Key Learnings
 
 Designing agentic workflows instead of simple prompts
@@ -61,6 +65,7 @@ Managing state, memory, and control flow in LLM systems
 Building scalable and modular AI pipelines
 
 Implementing real-world orchestration patterns
+
 
 🎯 Use Cases
 
@@ -75,5 +80,7 @@ Multi-step Reasoning Systems
 Decision-making pipelines
 
 Deploy as API service
+
 Integrate vector databases (RAG)
+
 Add monitoring & evaluation pipelines
