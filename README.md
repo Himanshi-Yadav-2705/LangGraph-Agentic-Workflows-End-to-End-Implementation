@@ -25,23 +25,35 @@ This repository includes step-by-step notebooks covering:
 ✅ Human-in-the-loop systems
 
 🛠️ Tech Stack
+
 LangGraph
+
 LangChain
+
 Python
+
 Pydantic
+
 LLM APIs (OpenAI / compatible models)
 
 💡 Key Learnings
 Designing agentic workflows instead of simple prompts
+
 Managing state, memory, and control flow in LLM systems
+
 Building scalable and modular AI pipelines
+
 Implementing real-world orchestration patterns
 
 🎯 Use Cases
 AI Agents
+
 Workflow Automation
+
 Conversational Systems
+
 Multi-step Reasoning Systems
+
 Decision-making pipelines
 
 Deploy as API service
